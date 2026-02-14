@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "name": "Necklaces",
+      "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=800&q=80"
+    },
+    {
+      "name": "Earrings",
+      "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=800&q=80"
+    },
+    {
+      "name": "Bangles & Bracelets",
+      "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=800&q=80"
+    },
+    {
+      "name": "Rings",
+      "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=800&q=80"
+    }
+  ],
+  "products": [
+    {
+      "name": "Royal Kundan Set",
+      "category": "Necklaces",
+      "image": "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=800&q=80"
+    },
+    {
+      "name": "Pearl Drop Earrings",
+      "category": "Earrings",
+      "image": "https://images.unsplash.com/photo-1535556116002-6281ff3e9f92?w=800&q=80"
+    },
+    {
+      "name": "Temple Jewellery Necklace",
+      "category": "Necklaces",
+      "image": "https://images.unsplash.com/photo-1611955167811-4711904bb9f8?w=800&q=80"
+    },
+    {
+      "name": "Gold Plated Bangles",
+      "category": "Bangles & Bracelets",
+      "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=800&q=80"
+    },
+    {
+      "name": "Chandbali Earrings",
+      "category": "Earrings",
+      "image": "https://images.unsplash.com/photo-1630019852942-f89202989a59?w=800&q=80"
+    },
+    {
+      "name": "Statement Ring",
+      "category": "Rings",
+      "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=800&q=80"
+    }
+  ]
+}
